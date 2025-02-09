@@ -14,7 +14,7 @@ This is a personal portfolio website for showcasing my projects, skills, and con
 
 ## Demo
 
-You can view the live demo of the website [here](https://chamithKavinda.github.io/Portfolio).
+You can view the live demo of the website [here](https://portfolio-git-main-konthainas-projects.vercel.app/).
 
 ## Features
 
@@ -39,7 +39,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/your-username/Portfolio.git
+    git clone https://github.com/Konthaina/Portfolio.git
     ```
 2. Navigate to the project directory:
     ```sh
