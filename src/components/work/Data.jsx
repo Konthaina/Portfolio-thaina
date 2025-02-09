@@ -24,7 +24,7 @@ export const projectsData = [
         image: Portfolio,
         title: 'Portfolio Website - Personal Project',
         category: 'web',
-        link: 'N/A',
+        link: 'https://github.com/Konthaina/Portfolio',
     },
     {
         id: 3,
