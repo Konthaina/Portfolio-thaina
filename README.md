@@ -14,7 +14,7 @@ This is a personal portfolio website for showcasing my projects, skills, and con
 
 ## Demo
 
-You can view the live demo of the website [here](https://portfolio-git-main-konthainas-projects.vercel.app/).
+You can view the live demo of the website [-> Demo](https://portfolio-thaina-tau.vercel.app/).
 
 ## Features
 
