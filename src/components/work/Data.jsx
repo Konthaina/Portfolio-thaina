@@ -4,7 +4,7 @@ import AirLanding from "../../assets/air Landing.jpg";
 import SocialMediaAcc from "../../assets/social media account.jpg";
 import BookWorm from "../../assets/book worm.jpg";
 import ChatApp from "../../assets/chat application.jpg";
-import CoffeeShop from "../../assets/coffe shop.jpg";
+import CoffeeShop from "../../assets/Edencoffee.png";
 import CropMonitoring from "../../assets/crop monitoring.jpg";
 import YumYard from "../../assets/yum yard.jpg";
 import Portfolio from "../../assets/portfolio.png";
@@ -43,9 +43,9 @@ export const projectsData = [
     {
         id: 7,
         image: CoffeeShop,
-        title: 'Coffee Shop POS System',
-        category: 'app',
-        link:'N/A',
+        title: 'Eden Coffee POS System',
+        category: 'web',
+        link:'https://eden-coffee-frontend.vercel.app/',
     },
     {
         id: 5,
