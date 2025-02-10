@@ -45,7 +45,7 @@ export const projectsData = [
         image: CoffeeShop,
         title: 'Eden Coffee POS System',
         category: 'web',
-        link:'https://eden-coffee-frontend.vercel.app/',
+        link:'https://github.com/Konthaina/Eden-Coffee-Frontend',
     },
     {
         id: 5,
