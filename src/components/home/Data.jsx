@@ -8,7 +8,7 @@ const Data = () => {
         <span className="verify-icon"></span>
       </h1>
       <h3 className="home__title">Computer Science Student</h3>
-      <p className="home__description">First Semister, 4th at Norton University.</p>
+      <p className="home__description">First Semister, 4th year at Norton University.</p>
     </div>
   );
 };
