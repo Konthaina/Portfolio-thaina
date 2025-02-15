@@ -1,6 +1,7 @@
 import TicTacToe from "../../assets/tic-tac-toe.png";
 import CoffeeShop from "../../assets/Edencoffee.png";
 import Portfolio from "../../assets/portfolio.png";
+import dms from "../../assets/dms-system.png";
 
 export const projectsData = [
     {
@@ -23,6 +24,13 @@ export const projectsData = [
         title: 'Eden Coffee POS System',
         category: 'web',
         link:'https://github.com/Konthaina/Eden-Coffee-Frontend',
+    },
+    {
+        id: 4,
+        image: dms,
+        title: 'Document Management System',
+        category: 'web',
+        link:'https://github.com/Konthaina/school-management',
     },
     
 ];
