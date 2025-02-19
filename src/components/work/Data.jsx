@@ -37,7 +37,7 @@ export const projectsData = [
         id: 5,
         image: dms,
         title: 'Animation Design Page',
-        category: 'design',
+        category: 'designs',
         link:'https://www.figma.com/design/VJF3dVDirkjMTf5az0gxlT/Animation-Product?t=azsXBNUQWye2LuXZ-1',
     },
     
