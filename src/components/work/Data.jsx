@@ -3,6 +3,7 @@ import CoffeeShop from "../../assets/Edencoffee.png";
 import Portfolio from "../../assets/portfolio.png";
 import dms from "../../assets/dms-system.png";
 import animationdesign from "../../assets/animation-design.png";
+import foodpos from "../../assets/foodpos-ui.png";
 
 export const projectsData = [
     {
@@ -39,6 +40,13 @@ export const projectsData = [
         title: 'Animation Design Page',
         category: 'designs',
         link:'https://www.figma.com/design/VJF3dVDirkjMTf5az0gxlT/Animation-Product?t=azsXBNUQWye2LuXZ-1',
+    },
+    {
+        id: 6,
+        image: foodpos,
+        title: 'Food POS System (UI)',
+        category: 'designs',
+        link:'https://www.figma.com/design/8DQdKa4J2csgpqhGOpX0Pp/Food-POS-UI?node-id=3739-2&t=VWtpaZdHoy1I4a4R-1',
     },
     
 ];
