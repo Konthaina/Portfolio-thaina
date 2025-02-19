@@ -2,6 +2,7 @@ import TicTacToe from "../../assets/tic-tac-toe.png";
 import CoffeeShop from "../../assets/Edencoffee.png";
 import Portfolio from "../../assets/portfolio.png";
 import dms from "../../assets/dms-system.png";
+import animationdesign from "../../assets/animation-design.png";
 
 export const projectsData = [
     {
@@ -31,6 +32,13 @@ export const projectsData = [
         title: 'Document Management System',
         category: 'web',
         link:'https://github.com/Konthaina/school-management',
+    },
+    {
+        id: 5,
+        image: dms,
+        title: 'Animation Design Page',
+        category: 'design',
+        link:'https://www.figma.com/design/VJF3dVDirkjMTf5az0gxlT/Animation-Product?t=azsXBNUQWye2LuXZ-1',
     },
     
 ];
