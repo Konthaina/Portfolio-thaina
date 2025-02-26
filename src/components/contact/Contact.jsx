@@ -77,10 +77,10 @@ const Contact = () => {
               <i className="bx bx-mail-send contact__card-icon"></i>
 
               <h3 className="contact__card-title">Email</h3>
+
               <span className="contact__card-data">
                 thainakon87@gmail.com
               </span>
-
               <a
                 href="mailto:thainakon87@gmail.com"
                 className="contact__button"
@@ -97,7 +97,9 @@ const Contact = () => {
               transition={{ duration: 0.5, delay: 0.2 }}
             >
               <i className="bx bxl-whatsapp contact__card-icon"></i>
+
               <h3 className="contact__card-title">Whatsapp</h3>
+
               <span className="contact__card-data">+855 15 502 705</span>
               <a href="https://wa.me/855762714244" className="contact__button">
                 Write me{" "}
@@ -112,7 +114,9 @@ const Contact = () => {
               transition={{ duration: 0.5, delay: 0.4 }}
             >
               <i className="bx bxl-discord contact__card-icon"></i>
+
               <h3 className="contact__card-title">Discord</h3>
+
               <span className="contact__card-data">Thaina Club</span>
               <a
                 href="https://discord.gg/M232dvFa"
