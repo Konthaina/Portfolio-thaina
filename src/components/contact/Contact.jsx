@@ -97,10 +97,8 @@ const Contact = () => {
               transition={{ duration: 0.5, delay: 0.2 }}
             >
               <i className="bx bxl-whatsapp contact__card-icon"></i>
-
               <h3 className="contact__card-title">Whatsapp</h3>
-              <span className="contact__card-data">+855 76 271 4244</span>
-
+              <span className="contact__card-data">+855 15 502 705</span>
               <a href="https://wa.me/855762714244" className="contact__button">
                 Write me{" "}
                 <i className="bx bx-right-arrow-alt contact__button-icon"></i>
@@ -114,12 +112,10 @@ const Contact = () => {
               transition={{ duration: 0.5, delay: 0.4 }}
             >
               <i className="bx bxl-discord contact__card-icon"></i>
-
               <h3 className="contact__card-title">Discord</h3>
-              <span className="contact__card-data">N/A</span>
-
+              <span className="contact__card-data">Thaina Club</span>
               <a
-                href="N/A"
+                href="https://discord.gg/M232dvFa"
                 className="contact__button"
               >
                 Write me{" "}
