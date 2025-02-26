@@ -54,7 +54,7 @@ const Backend = () => {
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">MySQL</h3>
+                        <h3 className="skills__name">Laravel</h3>
                     </div>
                 </div>
 
@@ -62,7 +62,7 @@ const Backend = () => {
                     <i className='bx bx-badge-check'></i>
 
                     <div>
-                        <h3 className="skills__name">Supabase</h3>
+                        <h3 className="skills__name">MySQL</h3>
                     </div>
                 </div>
 
