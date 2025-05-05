@@ -4,6 +4,9 @@ import Portfolio from "../../assets/portfolio.png";
 import dms from "../../assets/dms-system.png";
 import animationdesign from "../../assets/animation-design.png";
 import foodpos from "../../assets/foodpos-ui.png";
+import posui from "../../assets/posdms.png";
+import pos from "../../assets/commingsoon.png";
+
 
 export const projectsData = [
     {
@@ -47,6 +50,20 @@ export const projectsData = [
         title: 'Food POS System (UI)',
         category: 'designs',
         link:'https://www.figma.com/design/8DQdKa4J2csgpqhGOpX0Pp/Food-POS-UI?node-id=3739-2&t=VWtpaZdHoy1I4a4R-1',
+    },
+    {
+        id: 7,
+        image: posui,
+        title: 'Point of Sale Management System (UI)',
+        category: 'designs',
+        link:'https://www.figma.com/design/i0weVDjKipdPPpAkxWR1Kx/POS-EDEN?node-id=1-3027&t=e60tmJ2zQEkacwTp-1',
+    },
+    {
+        id: 8,
+        image: pos,
+        title: 'Point of Sale Management System',
+        category: 'web',
+        link:'www.example.com',
     },
     
 ];
